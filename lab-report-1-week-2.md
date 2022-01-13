@@ -27,7 +27,7 @@ Here is an example:
 
 * Some basic commands everyone should know when using a terminal are:
 1. **ls** - lists everything in the current directory
-2. **cd** - changes directory to home if nothing is typed afterwards
+2. **cd** - changes directory to home if nothing is typed afterwards(same as cd ~)
 3. **ls -lat** - lists everything in long format, lists hidden directories, and lists the time of the last edit 
 4. **cp** copies files to another place (must have permission to read the file)
 5. **cat** - prints the files contents to the terminal
