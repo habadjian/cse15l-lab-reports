@@ -13,6 +13,8 @@ I already had VSCode installed on my computer✅
 
 * Next, open Visual Studio Code and open the terminal by pressing (Ctrl or Command + `) or by clicking the terminal icon at the top then **"New Terminal"**
 ![Terminal](images/terminal.png)
+
+
 Here is an example:
 ![Terminal2](images/terminal2.png)
 
