@@ -36,5 +36,12 @@ Here is an example:
 
 ***
 ## Step 4:
+For this step we will be using the "**scp**" command, which allows us to copy files back and forth between the client and the server.
+* First, get the name of the file you want to copy onto the server and type in this command **while in ssh**: ```scp **File Name** cs15lwi22zz@ieng6.ucsd.edu:~/```
+* Next, enter your password and use the command **ls**. You should see the file you copied over in the list of directories.
 
+![ls](images/ls.png)
+
+***
+## Step 5:
 
