@@ -11,10 +11,7 @@ I already had VSCode installed on my computer✅
 * First, get your account info by visiting **[this](https://sdacs.ucsd.edu/~icc/index.php)** website
 ![Account](images/account.png)
 
-* Next, open Visual Studio Code and open the terminal by pressing (Ctrl or Command + `) or by clicking the terminal icon at the top then **"New Terminal"**
-![Terminal](images/terminal.png)
-
-
+* Next, open Visual Studio Code and open the terminal by pressing (Ctrl or Command + `) or by clicking the terminal icon at the top then **"New Terminal"**.
 Here is an example:
 ![Terminal2](images/terminal2.png)
 
@@ -24,4 +21,8 @@ Here is an example:
 * Great job! You are now connected to one of the computers in the CSE basement. 
 
 
+***
 
+## Step 3: Running Commands
+
+* Some basic commands everyone should know when using a terminal:* 
