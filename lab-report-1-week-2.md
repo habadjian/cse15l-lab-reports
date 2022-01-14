@@ -46,6 +46,7 @@ For this step we will be using the "**scp**" command, which allows us to copy fi
 ## Step 5: Setting an SSH Key
 
 * An ssh key is a tool which allows you to ssh without having to enter the password every time you want to log in. We can do this by typing in this command ```ssh-keygen``` on the client.
+  
 ![SSH2](images/ssh2.png)
 * It will ask you for a file to save the key. Copy and past the directory in the parentheses and hit enter. Then leave the passphrase empty.
 * You should see something like this:
