@@ -59,6 +59,9 @@ For this step we will be using the "**scp**" command, which allows us to copy fi
 
 ***
 ## Step 6: Optimizing Remote Running
-* 
+* In order to save some time, you can type commands like ls on the same line that you are sshing. It looks something like this:
+```cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI```
+  
+![savingtime](images/savingtime.png)
 
 
