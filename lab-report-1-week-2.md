@@ -2,6 +2,7 @@
 
 ## Step 1: Installing VSCode
 I already had VSCode installed on my computer✅
+  
 ![VSCode](images/vscodess.png)
 
 ---
