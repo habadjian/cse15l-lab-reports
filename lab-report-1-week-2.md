@@ -49,6 +49,7 @@ For this step we will be using the "**scp**" command, which allows us to copy fi
 ![SSH2](images/ssh2.png)
 * It will ask you for a file to save the key. Copy and past the directory in the parentheses and hit enter. Then leave the passphrase empty.
 * You should see something like this:
+  
 ![SSH1](images/ssh.png)
 * Once this is done, ssh using your username, log in by entering your passsword, then type in the comand ```mkdir .ssh``` on the server then logout.
 * Once back on the client, enter this command: ```scp /Users/user/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys``` Be sure to replace the user with your own as well as the account username you are "sshing" into. 
