@@ -43,5 +43,18 @@ For this step we will be using the "**scp**" command, which allows us to copy fi
 ![ls](images/ls.png)
 
 ***
-## Step 5:
+## Step 5: Setting an SSH Key
+
+* An ssh key is a tool which allows you to ssh without having to enter the password every time you want to log in. We can do this by typing in this command ```ssh-keygen``` on the client.
+![SSH2](images/ssh2.png)
+* It will ask you for a file to save the key. Copy and past the directory in the parentheses and hit enter. Then leave the passphrase empty.
+* You should see something like this:
+![SSH1](images/ssh.png)
+* Once this is done, ssh using your username, log in by entering your passsword, then type in the comand ```mkdir .ssh``` on the server then logout.
+* Once back on the client, enter this command: ```scp /Users/user/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys``` Be sure to replace the user with your own as well as the account username you are "sshing" into. 
+![SSH3](images/ssh3.png)
+***
+## Step 6: Optimizing Remote Running
+* 
+
 
