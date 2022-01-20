@@ -1,7 +1,9 @@
 # Remote Access
 
 ## Step 1: Installing VSCode
-I already had VSCode installed on my computer✅
+* VSCode is an easy to use IDE which programmers of any level can use. Go to **[this](https://code.visualstudio.com/download)** link to download the app for your desktop. Once downloaded, open the zip file and install VSCode onto your computer. 
+
+* When you open it, you will see a window like this:
   
 ![VSCode](images/vscodess.png)
 
@@ -27,17 +29,17 @@ Here is an example:
 ## Step 3: Running Commands
 
 * Some basic commands everyone should know when using a terminal are:
-1. **ls** - lists everything in the current directory
-2. **cd** - changes directory to home if nothing is typed afterwards(same as cd ~)
-3. **ls -lat** - lists everything in long format, lists hidden directories, and lists the time of the last edit 
-4. **cp** copies files to another place (must have permission to read the file)
-5. **cat** - prints the files contents to the terminal
-6. **mv** - moves file from current directory to another
+1. **```ls```** - lists everything in the current directory
+2. **```cd```** - changes directory to home if nothing is typed afterwards(same as cd ~)
+3. **```ls -lat```** - lists everything in long format, lists hidden directories, and lists the time of the last edit 
+4. **```cp```** copies files to another place (must have permission to read the file)
+5. **```cat```** - prints the files contents to the terminal
+6. **```mv```** - moves file from current directory to another
 ![CommandLineArgs](images/commandLineArgs.png)
 
 ***
 ## Step 4:
-For this step we will be using the "**scp**" command, which allows us to copy files back and forth between the client and the server.
+For this step we will be using the **```scp```** command, which allows us to copy files back and forth between the client and the server.
 * First, get the name of the file you want to copy onto the server and type in this command **while in ssh**: ```scp **File Name** cs15lwi22zz@ieng6.ucsd.edu:~/```
 * Next, enter your password and use the command **ls**. You should see the file you copied over in the list of directories.
 
