@@ -1,7 +1,7 @@
 # Remote Access
 
 ## Step 1: Installing VSCode
-* VSCode is an easy to use IDE which programmers of any level can use. Go to **[this](https://code.visualstudio.com/download)** link to download the app for your desktop. Once downloaded, open the zip file and install VSCode onto your computer. 
+* VSCode is an easy to use IDE which programmers of any level can use. Go to **[this](https://code.visualstudio.com/download)** link to download the app. Once downloaded, open the zip file and install VSCode onto your computer. 
 
 * When you open it, you will see a window like this:
   
