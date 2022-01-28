@@ -43,5 +43,16 @@
 
 # Coding Change #3:
 
-*
+* The last thing we tested for was what would happen if there was other text in the test files. The test we used can be found **[here](https://github.com/habadjian/markdown-parse/blob/main/test2.md)**.
+
+* We did this by adding the line ```System.out.println(currentIndex);```. This line helped us see how many links were being added to the arraylist and if any text was being added as well. 
+
+![Image](images2/added.png)
+
+  
+![Image2](images2/Git3.png)
+
+* The bug we were trying to fix was adding text to the test file and seeing if the program would count that as a link. The symptoms were the text being added to the array. We were able to test for this by printing currentIndex out for each iteration through the while loop in order to see how many times a link was added to the array. 
+
+![Image3](images2/Image3.png)
 
