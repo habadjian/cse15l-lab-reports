@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Week 4 Lab Report: Syptoms and Bugs
 
 ## Code Change #1:
@@ -38,6 +38,10 @@
 ![Fixed file](images2/fixedmessage.png)
 
 * The bug here was caused by not having the ```throws IO Exception``` in the method header. The symptom was the code not being able to compile due to the Exception not being able to be thrown. 
-=======
->>>>>>> de0c1db77719704a9fc119f444feba4600664304
+
+***
+
+# Coding Change #3:
+
+*
 
