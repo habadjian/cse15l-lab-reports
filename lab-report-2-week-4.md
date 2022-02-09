@@ -52,6 +52,10 @@
   
 ![Image2](images2/Git3.png)
 
+* Output of change made:
+  
+![SysoutForLoop](images2/outputForSysout.png)
+  
 * The bug we were trying to fix was adding text to the test file and seeing if the program would count that as a link. The symptoms were the text being added to the array. We were able to test for this by printing currentIndex out for each iteration through the while loop in order to see how many times a link was added to the array. 
 
 ![Image3](images2/Image3.png)
