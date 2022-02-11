@@ -30,7 +30,8 @@
   
 ![ScpWithNewAlias](images3/scpSomeFile.png)
   
-![CheckingIfFileWasSSHd](images3/scpSomeFile.png)  
+![CheckingIfFileWasSSHd](images3/someFileSSHd.png)  
+
 ***
   
 
