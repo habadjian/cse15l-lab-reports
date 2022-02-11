@@ -8,7 +8,7 @@
   
 ![CreatingCongfigFile](images3/creatingConfig.png)
   
-* Once I created the file using ```touch```, I used the command line arguemtn ```vi``` to edit the config file. I then added the required lines into the config file via the terminal.I then saved the edited file with the command ```:w``` and then quit the editor with ```:q```. Once this was done my config file had been edited and was ready to go.
+* Once I created the file using ```touch```, I used the command line argument ```vi``` to edit the config file. I then added the required lines into the config file via the terminal. Then, I saved the edited file with the command ```:w``` and then quit the editor with ```:q```. Once this was done my config file had been edited and was ready to go.
   
 ![EditingConfigFile](images3/editingConfig.png)
 
