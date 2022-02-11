@@ -1,4 +1,4 @@
-# Remote Access
+# Week 2 Lab Report: Remote Access
 
 ## Step 1: Installing VSCode
 * VSCode is an easy to use IDE which programmers of any level can use. Go to **[this](https://code.visualstudio.com/download)** link to download the app. Once downloaded, open the zip file and install VSCode onto your computer. 
