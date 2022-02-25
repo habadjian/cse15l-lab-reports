@@ -48,6 +48,7 @@
 * Code change answer: 
 Although my snippet 2 tester passed, there are still ways to improve the code. For tests with multiple parenthesis, it would be best to find the last closed parenthesis and updated the index of ```closeParen``` to that index.
 ***
+  
 ## Snippet 3:
 
 * What should be produced:
