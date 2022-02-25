@@ -28,6 +28,7 @@
 
 * Code change answer: I believe there is a small code change that could be implemented in order to read ``` `[a.com`](url.com) ``` as a link. There could be an ```if``` statement implemented that would check for a the "``` ` ```" character before the ```nextOpenBracket``` variable. If there was a chracter, then disregard it and move on with the loop.
 ***
+  
 ## Snippet 2:
 
 * What should be produced:
@@ -66,7 +67,3 @@ Although my snippet 2 tester passed, there are still ways to improve the code. F
 ![their snippet 3 test output](images4/theirsnip3testr2.png)
 
 * Code change answer: I believe that there is a small code change I could make that could read links with new lines. I could add an ```if``` statement that could check if there was a new line(using ```\n```) after ```nextCloseBracket``` or ```openParen```. 
-
-
-
-
