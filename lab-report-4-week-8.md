@@ -27,6 +27,7 @@
 ![their snippet 1 test output](images4/theirsnip1testr.png)
 
 * Code change answer: I believe there is a small code change that could be implemented in order to read ``` `[a.com`](url.com) ``` as a link. There could be an ```if``` statement implemented that would check for a the "``` ` ```" character before the ```nextOpenBracket``` variable. If there was a chracter, then disregard it and move on with the loop.
+  
 ***
   
 ## Snippet 2:
@@ -47,6 +48,7 @@
 
 * Code change answer: 
 Although my snippet 2 tester passed, there are still ways to improve the code. For tests with multiple parenthesis, it would be best to find the last closed parenthesis and updated the index of ```closeParen``` to that index.
+  
 ***
   
 ## Snippet 3:
