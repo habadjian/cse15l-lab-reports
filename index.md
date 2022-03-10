@@ -4,4 +4,5 @@
 * [Lab 2](https://habadjian.github.io/cse15l-lab-reports/lab-report-2-week-4)
 * [Lab 3](https://habadjian.github.io/cse15l-lab-reports/lab-report-3-week-6)
 * [Lab 4](https://habadjian.github.io/cse15l-lab-reports/lab-report-4-week-8)
+* [Lab 5](https://habadjian.github.io/cse15l-lab-reports/lab-report-5-week-10)
 
