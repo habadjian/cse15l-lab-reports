@@ -23,7 +23,7 @@
 
 * The implementation I think is correct is the one linked in this lab(Joe's) because the contents of the file are not a link but my own implementation read it as a link. The expected output is ```[]```. My output was wrong because it read the title as a link when it shouldn't have.
   
-* The bug here is the code read the indents and the new line as a link when it should not have. I can have a check in the code around line twenty that checks for ```/n```(new lines) in the link and if there is one I can not count that as a link.
+* The bug here is the code read the indents and the new line as a link when it should not have. I can have a check in the code around line twenty that checks for ```/n```(new lines)and indents in the link and if there is one I can not count that as a link. Also if there is no ```nextClosedBracket``` or``` nextOpenBracket``` I can add a statement to not add the link to the list.
   
 * My markdown parse for reference:
 
